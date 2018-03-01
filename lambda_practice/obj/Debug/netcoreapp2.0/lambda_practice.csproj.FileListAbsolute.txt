@@ -1,0 +1,11 @@
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\bin\Debug\netcoreapp2.0\lambda_practice.deps.json
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\bin\Debug\netcoreapp2.0\lambda_practice.runtimeconfig.json
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\bin\Debug\netcoreapp2.0\lambda_practice.runtimeconfig.dev.json
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\bin\Debug\netcoreapp2.0\lambda_practice.dll
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\obj\Debug\netcoreapp2.0\lambda_practice.csprojResolveAssemblyReference.cache
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\obj\Debug\netcoreapp2.0\lambda_practice.csproj.CoreCompileInputs.cache
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\obj\Debug\netcoreapp2.0\lambda_practice.AssemblyInfoInputs.cache
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\obj\Debug\netcoreapp2.0\lambda_practice.AssemblyInfo.cs
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\bin\Debug\netcoreapp2.0\lambda_practice.pdb
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\obj\Debug\netcoreapp2.0\lambda_practice.dll
+C:\Users\cblanco\source\repos\lambda_practice\lambda_practice\obj\Debug\netcoreapp2.0\lambda_practice.pdb
